@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.exe
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.deps.json
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.dll
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\bin\Debug\netcoreapp3.0\LearningNulls.pdb
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\obj\Debug\netcoreapp3.0\LearningNulls.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\obj\Debug\netcoreapp3.0\LearningNulls.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\obj\Debug\netcoreapp3.0\LearningNulls.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\obj\Debug\netcoreapp3.0\LearningNulls.dll
+C:\Users\Jason\source\repos\LearningNulls\LearningNulls\obj\Debug\netcoreapp3.0\LearningNulls.pdb
